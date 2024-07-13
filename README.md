@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/StupidProAArsenal/main/main/Musclas%20Legenos.lua
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Muscle-Legends'),true))()
